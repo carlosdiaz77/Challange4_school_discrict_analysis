@@ -6,21 +6,10 @@
 -The purpose of this project it to apply all that we learned in the module 4, in the Data analysis and visualization  Boot camp of the University of Texas at Austin.
 During the this module we had the opportunity to learn the Pandas Libraries for Python. 
 
-During the module w worked with data of  math and reading scores  15 schools
-The important data we could extract was:
+During the module I worked with data of  math and reading scores  15 schools
 
--Average sores for math and ready by schools and by district
--District summary
--Schools summary
--Top 5 performing schools
--Button 5 performing schools
--Summary by School size
--Summary by School size
--Summary by School type
-
-For this challenge of the module 4 ,  I was requested to run the same analysis but removing the records of the 9th graders of Thomas High School.
+For this challenge of the module 4 ,  I was requested to run the same analysis i did during the module activities but  this time I had to remove the records of the 9th graders of Thomas High School.
 	
-
 ## Results
 
 -  We can identify there where some changes in the final numbers after removing the 9th graders. I will show the details  below.
