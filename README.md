@@ -55,14 +55,14 @@ Ranking wise it did not change the position of  Thomas High School
 
 ### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
-- <img src = "Resources/grades_summary" width= "400" >
+- <img src = "Resources/grades_summary.png" width= "400" >
 Scores by school spending
-- <img src = "Resources/spending_ranges" width= "400" >
+- <img src = "Resources/spending_ranges.png" width= "400" >
 Scores by school size
-- <img src = "Resources/school_size" width= "400" >
+- <img src = "Resources/school_size.png" width= "400" >
 Scores by school type
 
-- <img src = "Resources/school_type" width= "400" >
+- <img src = "Resources/school_type.png" width= "400" >
 
 
 
