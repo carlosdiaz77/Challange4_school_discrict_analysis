@@ -30,7 +30,7 @@ For this challenge of the module 4 ,  I was requested to run the same analysis b
 We can see in the image below that in general the district averages scores and passing averages % were lower after removing the  data.
 
 
-- <img src = "Resources/ disctrict-summary.png" width= "400" >
+- <img src = "Resources/disctrict-summary.png" width= "400" >
 
 ### How is the school summary affected?
 
