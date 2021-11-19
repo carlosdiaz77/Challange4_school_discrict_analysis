@@ -49,7 +49,9 @@ Average reading score. Slightly higher
 Ranking wise it did not change the position of  Thomas High School 
 
 -For Math score  where the average score las lower , the schools keeps its 13th position 
+
 -For the Reading  score, where the average score was a bit higher , the schools keeps its 5thth position 
+
 -For the overall % passing score:  where the average % was bit lower, going from %90.9 to %90.63 The school keeps its 2nd position
 
 
