@@ -69,6 +69,16 @@ Scores by school type
 
 
 ## PySchool Analysis Summary
+
+Thanks to the analysis we could have with the data provided. we can see 5 metrics were immpacted with the 9th graders change. Total students and Total Budget remains the same.
+See imega below
+
+- <img src = "Resources/7_metrics.png" width= "400" >
+
+We can also identify the 4 most important changes. See image below
+
+- <img src = "Resources/major_changes.png" width= "400" >
+
 	
 
 -District summary
